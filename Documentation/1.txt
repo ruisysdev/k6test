@@ -1,0 +1,97 @@
+1113;50;50,00;Vaistai Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1706;11;11,00;"Dezodorantas";A
+1706;11;11,00;"Dezodorantas";A
+1405;10;10,00;Krioterapija P.;A
+1122;1;300,00;Krioanalgezija Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1411;35;35,00;Pedikiūras P.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1405;28;28,00;Krioterapija P.;A
+1213;35;35,00;Diabetinė pėda A;A
+1705;30;30,00;"Pėdų kremas";A
+1213;35;35,00;Diabetinė pėda A;A
+1209;15;15,00;Krioterapija M.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1411;30;30,00;Pedikiūras P.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1405;15;15,00;Krioterapija P.;A
+1405;15;15,00;Krioterapija P.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1209;10;10,00;Krioterapija M.;A
+1213;25;25,00;Diabetinė pėda A;A
+1209;10;10,00;Krioterapija M.;A
+1113;50;50,00;Vaistai Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;70;70,00;Vaistai Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1113;60;60,00;Vaistai Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1201;1;15,00;"Konsultacija M.";A
+1209;16;16,00;Krioterapija M.;A
+1213;35;35,00;Diabetinė pėda A;A
+1213;15;15,00;Diabetinė pėda A;A
+1209;10;10,00;Krioterapija M.;A
+1409;35;35,00;Diabetinė pėda P.;A
+1409;25;25,00;Diabetinė pėda P.;A
+1708;25;25,00;"KITOS PRIEMONES";A
+1111;45;45,00;Echoskopija Šuk.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;70;70,00;Vaistai Šuk.;A
+1111;45;45,00;Echoskopija Šuk.;A
+1209;10;10,00;Krioterapija M.;A
+1209;10;10,00;Krioterapija M.;A
+1213;35;35,00;Diabetinė pėda A;A
+1203;15;15,00;Nuospaud. šalinim. M.;A
+1209;10;10,00;Krioterapija M.;A
+1112;1;30,00;Injekcija Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1113;50;50,00;Vaistai Šuk.;A
+1114;130;130,00;Procedūra Šuk. 1;A
+1202;25;25,00;Įaugęs nagas M.;A
+1209;10;10,00;Krioterapija M.;A
+1203;15;15,00;Nuospaud. šalinim. M.;A
+1203;15;15,00;Nuospaud. šalinim. M.;A
+1708;10;10,00;"KITOS PRIEMONES";A
+1202;20;20,00;Įaugęs nagas M.;A
+1105;14;469,28;Echo. Šuk.  TLK;A
+1106;1;40,02;Echo.išpl. Šuk. TLK;A
+1104;2;96,12;V.chir.išpl. Šuk. TLK;A
+1410;12;225,72;Gyd. Pedikiūr.komp. P.;A
+1412;2;25,56;DP priežiūra TLK P.;A
+1410;3;56,43;Gyd. Pedikiūr.komp. P.;A
+1105;19;636,88;Echo. Šuk.  TLK;A
+1104;1;48,06;V.chir.išpl. Šuk. TLK;A
+1214;2;37,62;Gyd. Pedikiūr. TLK M.;A
+1216;2;25,56;DP priežiūra TLK M.;A
+1214;6;112,86;Gyd. Pedikiūr. TLK M.;A
+1216;3;38,34;DP priežiūra TLK M.;A
+1214;4;75,24;Gyd. Pedikiūr. TLK M.;A
+1216;2;25,56;DP priežiūra TLK M.;A
+1214;2;37,62;Gyd. Pedikiūr. TLK M.;A
+1216;1;12,78;DP priežiūra TLK M.;A
+1214;6;112,86;Gyd. Pedikiūr. TLK M.;A
+1216;2;25,56;DP priežiūra TLK M.;A
+1508;4;75,24;Gyd. ped TLK Š.;A
+1508;4;75,24;Gyd. ped TLK Š.;A
+1508;2;37,62;Gyd. ped TLK Š.;A
+1406;1;25,00;MIKROBIOLOGIJA P.;A
+1409;25;25,00;Diabetinė pėda P.;A
+1410;7;131,67;Gyd. Pedikiūr.komp. P.;A
+1412;3;38,34;DP priežiūra TLK P.;A
+1206;1;45,00;"Pedikiūras+Gelis M.";A
